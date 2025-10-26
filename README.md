@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi，朋友;一起发财啊～)](https://git.io/typing-svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xihuishawpy)](https://github.com/xihuishawpy/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xihuishawpy&theme=dracula)](https://github.com/xihuishawpy/github-readme-activity-graph)
