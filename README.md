@@ -2,7 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi，朋友;一起发财啊～)](https://git.io/typing-svg)
 
-🌱 数据竞赛爱好者
+About Me.
+
+- 🌴 I'm now a AI algorithm engineer. 
+- 🌱 I graduated from Central China Normal University with a master's degree. 
+- ⚡ I am a data science competition enthusiast. 
+- 🐝 Now I'm very interested in large language models. 
+- 📫 QQ🐧:1040310273 
+
+
+About Awards.
 
 1. 🥉2025 “兴智杯”全国人工智能创新应用大赛-算网云化设备故障诊断 ，4 / 242
 2. 🥉2025 “数境杯”柔性制造—电子产品产线排产智能调度， 10~12 / 786 （名次未公布）
